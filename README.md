@@ -20,5 +20,5 @@
 
 ## Attribution
 
-The project is inspired by [The SaaS CTO Security Checklist](https://cto-security-checklist.sqreen.io/) 
-created by [Sqreen.io](https://www.sqreen.io/)
+The project is inspired by the European Law and Brazilian Law about Data Protection.
+created by vvaleriafm
