@@ -1,4 +1,4 @@
-<img src="https://github.com/GDPRTracker/GDPR-checklist/blob/master/src/images/github.png">
+<img src="https://github.com/GDPRTracker/GDPR-checklist/blob/master/src/images/The gdpr and lgpd compliance checklist (1).png">
 
 ## How to add updates to the checklist
 
