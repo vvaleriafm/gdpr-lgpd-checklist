@@ -16,7 +16,7 @@
 
 ## Deployment
 
-- changes will automatically be deployed to https://gdprchecklist.io/
+- changes will automatically be deployed to https:...
 
 ## Attribution
 
